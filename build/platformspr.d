@@ -1,0 +1,1 @@
+platformspr.o: platformspr.s
